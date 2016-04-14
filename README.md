@@ -1,5 +1,5 @@
 #TI__ML_2016
-Ćwiczenia Technologie internetowe
+Ćwiczenia Technologie internetowe w 2016 roku.
 
 ##Przykładowy tekst w HTML:
 
