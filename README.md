@@ -39,7 +39,7 @@ To jest tekst przykładowy, którym chciałbym zilustrować czym różni się HT
     A to jest cytat.
 
 *Wstawianie obrazków w Markdown*
-![Logo Taat Technologie Cyfrowe](http://taat.pl/gfx/logo_taat.png "logo Taat") 
+![Logo Lasy Państwowe](https://www.google.pl/imgres?imgurl=http%3A%2F%2Fwww.lasy.gov.pl%2F%2B%2Btheme%2B%2Blasytheme%2Fimg%2Flogo_small.png&imgrefurl=http%3A%2F%2Fwww.lasy.gov.pl%2F&docid=A2E2bXT0o_rjAM&tbnid=2M4Mu7NuLShLMM%3A&w=70&h=70&ved=0ahUKEwjbm7j55o7MAhXFBiwKHek3AgcQMwgeKAMwAw&iact=mrc&uact=8"logo LP") 
 
 ###Linki:
 1. [Sobakowy blog](http://sobak.pl/blog/markdown-czyli-wygodne-formatowanie-tekstu/), krótki opis języka Markdown. 
