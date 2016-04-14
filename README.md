@@ -38,6 +38,9 @@ To jest tekst przykładowy, którym chciałbym zilustrować czym różni się HT
 
     A to jest cytat.
 
+*Wstawianie obrazków w Markdown*
+![Logo Taat Technologie Cyfrowe](http://taat.pl/gfx/logo_taat.png "logo Taat") 
+
 ###Linki:
 1. [Sobakowy blog](http://sobak.pl/blog/markdown-czyli-wygodne-formatowanie-tekstu/), krótki opis języka Markdown. 
 2. [ASP Katowice](http://www.asp.katowice.pl/zobacz/markdown#lists), Markdown na ASP Katowice. 
