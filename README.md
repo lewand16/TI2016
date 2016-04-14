@@ -5,7 +5,7 @@
 
 <h2>Nagłówek</h2>
 
-Oto przykładowy tekst <em>przykładowy</em>, którym chciałbym <strong>pokazać</strong> czym różni się HTML od <a href="http://blog.moridin.pl/2011/05/Markdown">Markdown</a>.
+Oto przykładowy tekst <em>przykładowy</em>, którym chciałbym <strong>pokazać</strong> czym różni się HTML od <a href="http://www.makoweabc.pl/2011/05/markdown/">Markoweabc</a>.
 
 <blockquote>A tutaj jest cytat.</blockquote>
 
@@ -13,7 +13,7 @@ Oto przykładowy tekst <em>przykładowy</em>, którym chciałbym <strong>pokaza�
 
 ####Nagłówek
 
-Oto przykłądowy tekst *przykładowy*, którym chciałbym **pokazać** czym różni się HTML od [Markdown](http://blog.moridin.pl/2011/05/Markdown).
+Oto przykłądowy tekst *przykładowy*, którym chciałbym **pokazać** czym różni się HTML od [Markoweabc](http://www.makoweabc.pl/2011/05/markdown/).
 
 > A tutaj jest cytat.
 
