@@ -36,7 +36,7 @@ To jest tekst przykładowy, którym chciałbym zilustrować czym różni się HT
 
     A to jest cytat.
 
-###Markdown, czyli wygodne formatowanie tekstu
+###*Markdown, czyli wygodne formatowanie tekstu*
 Krótki opis języka Markdown ze strony [Sobakowy blog](http://sobak.pl/blog/markdown-czyli-wygodne-formatowanie-tekstu/)
 
 Link do mojej strony na github http://lewand16.github.io/TI2016
