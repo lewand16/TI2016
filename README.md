@@ -4,7 +4,7 @@
 ##Przykładowy tekst w HTML:
 
 ```
-<h2>Nagłówek</h2>
+<h4>Nagłówek</h4>
 
 Oto przykładowy tekst <em>przykładowy</em>, którym chciałbym <strong>pokazać</strong> 
 czym różni się HTML od <a href="http://www.makoweabc.pl/2011/05/markdown/">Markdown</a>.
