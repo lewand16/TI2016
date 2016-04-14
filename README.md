@@ -38,10 +38,10 @@ To jest tekst przykładowy, którym chciałbym zilustrować czym różni się HT
 
     A to jest cytat.
 
-*Linki:*
-1. Krótki opis języka Markdown ze strony [Sobakowy blog](http://sobak.pl/blog/markdown-czyli-wygodne-formatowanie-tekstu/)
-1. Markdown na ASP Katowice [ASP Katowice](http://www.asp.katowice.pl/zobacz/markdown)
-1. Link do mojej strony na github [Projekt ML]( http://lewand16.github.io/TI2016)
+###Linki:
+1. [Sobakowy blog](http://sobak.pl/blog/markdown-czyli-wygodne-formatowanie-tekstu/), krótki opis języka Markdown. 
+2. [ASP Katowice](http://www.asp.katowice.pl/zobacz/markdown), Markdown na ASP Katowice. 
+3. [Projekt ML]( http://lewand16.github.io/TI2016), Link do mojej strony na github.
 
 
 
