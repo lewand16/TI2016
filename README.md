@@ -40,7 +40,7 @@ To jest tekst przykładowy, którym chciałbym zilustrować czym różni się HT
 
 ###Linki:
 1. [Sobakowy blog](http://sobak.pl/blog/markdown-czyli-wygodne-formatowanie-tekstu/), krótki opis języka Markdown. 
-2. [ASP Katowice](http://www.asp.katowice.pl/zobacz/markdown), Markdown na ASP Katowice. 
+2. [ASP Katowice](http://www.asp.katowice.pl/zobacz/markdown#lists), Markdown na ASP Katowice. 
 3. [Projekt ML]( http://lewand16.github.io/TI2016), Link do mojej strony na Github.
 
 
