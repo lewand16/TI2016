@@ -38,8 +38,11 @@ To jest tekst przykładowy, którym chciałbym zilustrować czym różni się HT
 
     A to jest cytat.
 
-###*Markdown, czyli wygodne formatowanie tekstu*
-Krótki opis języka Markdown ze strony [Sobakowy blog](http://sobak.pl/blog/markdown-czyli-wygodne-formatowanie-tekstu/)
+*Linki:*
+1. Krótki opis języka Markdown ze strony [Sobakowy blog](http://sobak.pl/blog/markdown-czyli-wygodne-formatowanie-tekstu/)
+2. Markdown na ASP Katowice [ASP Katowice](http://www.asp.katowice.pl/zobacz/markdown)
+3. Link do mojej strony na github [Projekt ML]( http://lewand16.github.io/TI2016)
 
-Link do mojej strony na github http://lewand16.github.io/TI2016
+
+
 
