@@ -1,7 +1,7 @@
 ###TI2016
 Ćwiczenia Technologie internetowe
 
-Przykładowy tekst w HTML:
+##Przykładowy tekst w HTML:
 
 <h2>Nagłówek</h2>
 
@@ -9,7 +9,7 @@ Oto przykładowy tekst <em>przykładowy</em>, którym chciałbym <strong>pokaza�
 
 <blockquote>A tutaj jest cytat.</blockquote>
 
-##Ten sam tekst w języku w Markdown:
+#Ten sam tekst w języku w Markdown:
 
 # Nagłówek
 
