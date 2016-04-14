@@ -1,4 +1,4 @@
-###TI2016
+#TI2016
 Ćwiczenia Technologie internetowe
 
 ##Przykładowy tekst w HTML:
@@ -9,9 +9,9 @@ Oto przykładowy tekst <em>przykładowy</em>, którym chciałbym <strong>pokaza�
 
 <blockquote>A tutaj jest cytat.</blockquote>
 
-#Ten sam tekst w języku w Markdown:
+###Ten sam tekst w języku w Markdown:
 
-# Nagłówek
+####Nagłówek
 
 Oto przykłądowy tekst *przykładowy*, którym chciałbym **pokazać** czym różni się HTML od [Markdown](http://blog.moridin.pl/2011/05/Markdown).
 
