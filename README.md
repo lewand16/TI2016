@@ -12,12 +12,21 @@ Oto przykładowy tekst <em>przykładowy</em>, którym chciałbym <strong>pokaza�
 ```
 
 ###Ten sam tekst w języku w Markdown:
+```
+####Nagłówek
+
+Oto przykłądowy tekst *przykładowy*, którym chciałbym **pokazać** czym różni się HTML od [Markdown](http://www.makoweabc.pl/2011/05/markdown/).
+
+> A tutaj jest cytat.
+```
+#Tekst wynikowy w Markdown na Github:
 
 ####Nagłówek
 
 Oto przykłądowy tekst *przykładowy*, którym chciałbym **pokazać** czym różni się HTML od [Markdown](http://www.makoweabc.pl/2011/05/markdown/).
 
 > A tutaj jest cytat.
+
 
 Efekt końcowy  w WordPress:
 
