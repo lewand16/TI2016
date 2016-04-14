@@ -19,7 +19,7 @@ Oto przykłądowy tekst *przykładowy*, którym chciałbym **pokazać** czym ró
 
 > A tutaj jest cytat.
 ```
-#Tekst wynikowy w Markdown na Github:
+###Tekst wynikowy w Markdown na Github:
 
 ####Nagłówek
 
