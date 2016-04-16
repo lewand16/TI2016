@@ -49,11 +49,11 @@ To jest tekst przykładowy, którym chciałbym zilustrować czym różni się HT
 
 #Wykład 16.04.2016
 
-http://polskikursblendera.pl/
+[Kurs blendera](http://polskikursblendera.pl/)
 
-view-source:https://math.ug.edu.pl/
+[Matematyka UG](view-source:https://math.ug.edu.pl/]
 
-github pages, zalety stron na github to min.:
+**github pages, zalety stron na github to min**.:
 
 *responsywność*, jak się je ogląda na tabletach i smartfonach to działa poprawnie,
 
@@ -68,41 +68,41 @@ tam można poprawiać, dodać tekst, potem wrzucamy to zpowrotem
 
 należy zwracać uwagę na używane przyciski
 
-konsola:
+##konsola,polecenia:
 
--ls
--git push #ściąganie danych
--git pull #wysyłanie danych, wysyła to co zostało zmienione
--tree -git/ # wyświetla drzewo plików z naszego repozytorium
+- ls
+- git push #ściąganie danych
+- git pull #wysyłanie danych, wysyła to co zostało zmienione
+- tree -git/ # wyświetla drzewo plików z naszego repozytorium
 
-różnica jest nakładana można scalić
+*różnica jest nakładana można scalić*
 
 GITLAB, tam można zakłądać konta prywatne i mikt nie sklonuje naszego repozytorium,ale jednak trzymamy się repopublicznych
 
-mechanizm kluczy publicznych
+##mechanizm kluczy publicznych
 przetrwać z unixem/secure shell SSH, bezpieczny sposób komunikacji, 2 klucze publiczny i prywatny, 2 duże liczby pierwsze no i już.
 
-wbzyl.inf.ug.edu.pl /środowisko programisty/ przetrwać z unixem, strona naszego prowadzącego.
+[środowisko programisty/ przetrwać z unixem, strona naszego prowadzącego](wbzyl.inf.ug.edu.pl) 
 
-kryptografia - Turing
+**kryptografia - Turing**
 
-klucz się generuje/podgląd kluczy z konsoli, można je znaleźć raczej po wyświetleniu poleceniem ls,:
--tree -/.ssh/id_rsa.pub #wyświetla klucz publiczny
--tree -/.ssh/known_hosts
+1. klucz się generuje/podgląd kluczy z konsoli, można je znaleźć raczej po wyświetleniu poleceniem ls,:
+- tree -/.ssh/id_rsa.pub #wyświetla klucz publiczny
+- tree -/.ssh/known_hosts
 - trzeci którego nie spisałem, ale chodzi o prywatny
 
 generowane są 3 pliki przez program do ssh, czyli klucz prywatny, publiczny, i known hosts
 
 Windows, należy dograć secure shell
 
-CSS
+##CSS
 powiązany z html, zmienia wygląd, mapowanie na wygląd, polega na grnerowaniu automatycznym
 najlepszy wybór w html to lista ul
 
 gotowy html z klasami mamy i jakiś css, ale chcemy trochę pozmieniać, jak to działą?:
 znacznik body, tworzony jest przez ileś reguł
 
-Należy w naszej stronie dołożyć ramki
+*Należy w naszej stronie dołożyć ramki*
 
 css3 umożliwia robienie robienie szlaczków
 
@@ -116,7 +116,7 @@ dowolne zdjęcie można wrzucić i przerobić je na ramkę
 zrób to sam 
 idziemy na link i próbujemy wpisywać kod
 
-http://codepen.io/pen/
+[Ćwiczymy html i css](http://codepen.io/pen/)
 
 robimy ramkę
 
@@ -124,5 +124,5 @@ robimy ramkę
 
 css trics border image # szukamy trików w przeglądarce do ramek na stronie
 
-
+*KONIEC*
 
