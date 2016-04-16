@@ -6,6 +6,35 @@ view-source:https://math.ug.edu.pl/
 
 github pages, zalety stron na github to min.:
 
-*responsywność*, jak się je ogląda na tabletach i smartfinach to działą poprawnie,
+*responsywność*, jak się je ogląda na tabletach i smartfonach to działa poprawnie,
+
+lepiej stronę trzymać w chmurze, np. github, można podmienić na swój szablon, komunikacja z rzeczami w chmurze tomoże być problem,
+
+powinniśmu mieć coś np. terminal, lub github desktop, co pozwoli
+
+do tworzenia stron używamy edytora, może być ATOM.
+
+mamy rzeczy u siebie na dysku, można zrobić klony repozytorium
+tam można poprawiać, dodać tekst, potem wrzucamy to zpowrotem
+
+należy zwracać uwagę na używane przyciski
+
+konsola:
+
+-ls
+-git push #ściąganie danych
+-git pull #wysyłanie danych, wysyła to co zostało zmienione
+-tree -git/ # wyświetla drzewo plików z naszego repozytorium
+
+różnica jest nakładana można scalić
+
+GITLAB, tam można zakłądać konta prywatne i mikt nie sklonuje naszego repozytorium,ale jednak trzymamy się repopublicznych
+
+mechanizm kluczy publicznych
+przetrwać z unixem/secure shell SSH, bezpieczny sposób komunikacji, 2 klucze publiczny i prywatny, 2 duże liczby pierwsze no i już.
+
+wbzyl.inf.ug.edu.pl /środowisko programisty/ przetrwać z unixem
+
+
 
 
