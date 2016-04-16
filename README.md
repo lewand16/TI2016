@@ -117,7 +117,7 @@ To jest tekst przykładowy, którym chciałbym zilustrować czym różni się HT
 ```
 <div class+"bi"............
 ```
-##css trics border image - szukamy trików w przeglądarce do ramek na stronie
+####css trics border image - szukamy trików w przeglądarce do ramek na stronie
 
 *KONIEC*
 
