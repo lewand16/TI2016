@@ -33,7 +33,32 @@ GITLAB, tam można zakłądać konta prywatne i mikt nie sklonuje naszego repozy
 mechanizm kluczy publicznych
 przetrwać z unixem/secure shell SSH, bezpieczny sposób komunikacji, 2 klucze publiczny i prywatny, 2 duże liczby pierwsze no i już.
 
-wbzyl.inf.ug.edu.pl /środowisko programisty/ przetrwać z unixem
+wbzyl.inf.ug.edu.pl /środowisko programisty/ przetrwać z unixem, strona naszego prowadzącego.
+
+kryptografia - Turing
+
+klucz się generuje/podgląd kluczy z konsoli, można je znaleźć raczej po wyświetleniu poleceniem ls,:
+-tree -/.ssh/id_rsa.pub #wyświetla klucz publiczny
+-tree -/.ssh/known_hosts
+- trzeci którego nie spisałem, ale chodzi o prywatny
+
+generowane są 3 pliki przez program do ssh, czyli klucz prywatny, publiczny, i known hosts
+
+Windows, należy dograć secure shell
+
+CSS
+powiązany z html, zmienia wygląd, mapowanie na wygląd, polega na grnerowaniu automatycznym
+najlepszy wybór w html to lista ul
+
+gotowy html z klasami mamy i jakiś css, ale chcemy trochę pozmieniać, jak to działą?:
+znacznik body, tworzony jest przez ileś reguł
+
+Należy w naszej stronie dołożyć ramki
+
+css3 umożliwia robienie robienie szlaczków
+
+
+
 
 
 
