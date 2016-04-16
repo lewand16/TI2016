@@ -74,6 +74,7 @@ To jest tekst przykładowy, którym chciałbym zilustrować czym różni się HT
 - git push #ściąganie danych
 - git pull #wysyłanie danych, wysyła to co zostało zmienione
 - tree -git/ # wyświetla drzewo plików z naszego repozytorium
+- git clone adres
 
 *różnica jest nakładana można scalić*
 
