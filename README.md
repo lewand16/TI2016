@@ -51,9 +51,9 @@ To jest tekst przykładowy, którym chciałbym zilustrować czym różni się HT
 
 [Kurs blendera](http://polskikursblendera.pl/)
 
-[Matematyka UG](view-source:https://math.ug.edu.pl/)
+[Matematyka UG](https://math.ug.edu.pl/)
 
-##github pages, zalety stron na github to min**.:
+##github pages, zalety stron na github to min.:
 
 *responsywność*, jak się je ogląda na tabletach i smartfonach to działa poprawnie,
 
@@ -61,7 +61,7 @@ To jest tekst przykładowy, którym chciałbym zilustrować czym różni się HT
 
 - powinniśmu mieć coś np. terminal, lub github desktop, co pozwoli
 
-- do tworzenia stron używamy edytora, może być **ATOM**
+- do tworzenia stron używamy edytora, może być **ATOM
 
 - mamy rzeczy u siebie na dysku, można zrobić klony repozytorium
   tam można poprawiać, dodać tekst, potem wrzucamy to zpowrotem
@@ -85,7 +85,7 @@ To jest tekst przykładowy, którym chciałbym zilustrować czym różni się HT
 
 [środowisko programisty/ przetrwać z unixem, strona naszego prowadzącego](wbzyl.inf.ug.edu.pl) 
 
-##kryptografia - Turing**
+##kryptografia - Turing
 
 1. klucz się generuje/podgląd kluczy z konsoli, można je znaleźć raczej po wyświetleniu poleceniem ls,:
 - tree -/.ssh/id_rsa.pub #wyświetla klucz publiczny
@@ -117,7 +117,7 @@ To jest tekst przykładowy, którym chciałbym zilustrować czym różni się HT
 ```
 <div class+"bi"............
 ```
-###css trics border image # szukamy trików w przeglądarce do ramek na stronie
+##css trics border image - szukamy trików w przeglądarce do ramek na stronie
 
 *KONIEC*
 
