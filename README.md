@@ -51,22 +51,22 @@ To jest tekst przykładowy, którym chciałbym zilustrować czym różni się HT
 
 [Kurs blendera](http://polskikursblendera.pl/)
 
-[Matematyka UG](view-source:https://math.ug.edu.pl/]
+[Matematyka UG](view-source:https://math.ug.edu.pl/)
 
-**github pages, zalety stron na github to min**.:
+##github pages, zalety stron na github to min**.:
 
 *responsywność*, jak się je ogląda na tabletach i smartfonach to działa poprawnie,
 
-lepiej stronę trzymać w chmurze, np. github, można podmienić na swój szablon, komunikacja z rzeczami w chmurze tomoże być problem,
+- lepiej stronę trzymać w chmurze, np. github, można podmienić na swój szablon, komunikacja z rzeczami w chmurze tomoże być problem,
 
-powinniśmu mieć coś np. terminal, lub github desktop, co pozwoli
+- powinniśmu mieć coś np. terminal, lub github desktop, co pozwoli
 
-do tworzenia stron używamy edytora, może być ATOM.
+- do tworzenia stron używamy edytora, może być **ATOM**
 
-mamy rzeczy u siebie na dysku, można zrobić klony repozytorium
-tam można poprawiać, dodać tekst, potem wrzucamy to zpowrotem
+- mamy rzeczy u siebie na dysku, można zrobić klony repozytorium
+  tam można poprawiać, dodać tekst, potem wrzucamy to zpowrotem
 
-należy zwracać uwagę na używane przyciski
+- należy zwracać uwagę na używane przyciski
 
 ##konsola,polecenia:
 
@@ -77,52 +77,47 @@ należy zwracać uwagę na używane przyciski
 
 *różnica jest nakładana można scalić*
 
-GITLAB, tam można zakłądać konta prywatne i mikt nie sklonuje naszego repozytorium,ale jednak trzymamy się repopublicznych
+##GITLAB
+- tam można zakłądać konta prywatne i mikt nie sklonuje naszego repozytorium,ale jednak trzymamy się repopublicznych
 
 ##mechanizm kluczy publicznych
-przetrwać z unixem/secure shell SSH, bezpieczny sposób komunikacji, 2 klucze publiczny i prywatny, 2 duże liczby pierwsze no i już.
+- przetrwać z unixem/secure shell SSH, bezpieczny sposób komunikacji, 2 klucze publiczny i prywatny, 2 duże liczby pierwsze no   i już.
 
 [środowisko programisty/ przetrwać z unixem, strona naszego prowadzącego](wbzyl.inf.ug.edu.pl) 
 
-**kryptografia - Turing**
+##kryptografia - Turing**
 
 1. klucz się generuje/podgląd kluczy z konsoli, można je znaleźć raczej po wyświetleniu poleceniem ls,:
 - tree -/.ssh/id_rsa.pub #wyświetla klucz publiczny
 - tree -/.ssh/known_hosts
 - trzeci którego nie spisałem, ale chodzi o prywatny
 
-generowane są 3 pliki przez program do ssh, czyli klucz prywatny, publiczny, i known hosts
+2. generowane są 3 pliki przez program do ssh, czyli klucz prywatny, publiczny, i known hosts
 
-Windows, należy dograć secure shell
+3. Windows, należy dograć secure shell
 
 ##CSS
-powiązany z html, zmienia wygląd, mapowanie na wygląd, polega na grnerowaniu automatycznym
-najlepszy wybór w html to lista ul
+- powiązany z html, zmienia wygląd, mapowanie na wygląd, polega na grnerowaniu automatycznym
+- najlepszy wybór w html to lista ul
+- gotowy html z klasami mamy i jakiś css, ale chcemy trochę pozmieniać, jak to działą?:
+  znacznik body, tworzony jest przez ileś reguł
 
-gotowy html z klasami mamy i jakiś css, ale chcemy trochę pozmieniać, jak to działą?:
-znacznik body, tworzony jest przez ileś reguł
+**Należy w naszej stronie dołożyć ramki**
 
-*Należy w naszej stronie dołożyć ramki*
+- css3 umożliwia robienie robienie szlaczków
+- w3c - konsorcjum od www, 
+- w3c css3 wyszukać w przeglądarce, na stronie szukamy borders
+- dowolne zdjęcie można wrzucić i przerobić je na ramkę
 
-css3 umożliwia robienie robienie szlaczków
+##zrób to sam 
+- idziemy na link i próbujemy wpisywać kod
+1. [Ćwiczymy html i css](http://codepen.io/pen/)
 
-
-w3c - konsorcjum od www, 
-
-w3c css3 wyszukać w przeglądarce, na stronie szukamy borders
-
-dowolne zdjęcie można wrzucić i przerobić je na ramkę
-
-zrób to sam 
-idziemy na link i próbujemy wpisywać kod
-
-[Ćwiczymy html i css](http://codepen.io/pen/)
-
-robimy ramkę
-
+*robimy ramkę*
+```
 <div class+"bi"............
-
-css trics border image # szukamy trików w przeglądarce do ramek na stronie
+```
+###css trics border image # szukamy trików w przeglądarce do ramek na stronie
 
 *KONIEC*
 
