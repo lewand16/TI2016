@@ -39,7 +39,7 @@ To jest tekst przykładowy, którym chciałbym zilustrować czym różni się HT
     A to jest cytat.
 
 *Wstawianie obrazków w Markdown*
-![Zdjęcie lasu](las.jpg) 
+![Zdjęcie lasu](las.JPG) 
 
 ###Linki:
 1. [Sobakowy blog](http://sobak.pl/blog/markdown-czyli-wygodne-formatowanie-tekstu/), krótki opis języka Markdown. 
