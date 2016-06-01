@@ -1,5 +1,17 @@
 #Notatki z wykładów Technologie internetowe 2016
 
+##Od czego zacząc tworzenie stron w języku HTML?
+
+
+
+
+
+
+
+
+
+
+
 
 ##Przykładowy tekst w HTML:
 
