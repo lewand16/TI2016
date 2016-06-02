@@ -60,6 +60,16 @@ Gdy już mamy otworzony nowy dokument, to **najważniejsze**, należy zapisać g
 
 ##I co dalej? :alien:
 
+Niestety napotykamy niezłą ścianę :scream:
+
+Poza notatkami z wykładów i ćwiczeń z Technologii internetowych wzorowałęm się na kursach HTML dosepnych w internecie, najbardziej pomocny dla nie był kanał na  YouTube z kuresm HTML i CSS **Mirosława Zelenta**
+
+>
+Kurs HTML odc.1: Tworzenie stron www - pierwszy projekt, wiedza podstawowa
+Pasja informatyki
+>
+
+
 
 
 
