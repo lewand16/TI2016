@@ -40,7 +40,14 @@ Popularne dla MAC OS X:
 
 Ja osobiście wybrałem do utworzenia mojej pierwszej strony internetowej programu *NOTEPAD++* :smile:
 
-* [Program można pobrać ze strony](https://notepad-plus-plus.org/download/v6.9.2.html)
+* [Program można pobrać ze strony domowej ](https://notepad-plus-plus.org/download/v6.9.2.html)
+
+####Na początek proponuję skonfigurować parę przydatnych opcji w programeie#### :star:
+
+1. Ustwienia\Kofigurator stylów\Dostępne style:**Obsidian**
+2. Ustwienia\Kofigurator stylów\Couier New\ oraz należy wybrać odpowiedni dla siebie rozmiar czcionki
+3. Ustwienia\Kofigurator stylów :dobrze jest też zaznaczyć opcje: >Używaj globalnego kroju czcionek>
+
 
 
 
