@@ -206,9 +206,44 @@ Zapis ten odwołuje się do stylu logo zapisanego w pliku CSS
 
 ```
 
-2. wstawianie tabel w HTML, dla przykładu tabela z mojej strony która pełni funkcję galerii 
+2. wstawianie tabel w HTML, dla przykładu tabela z mojej strony która pełni funkcję galerii, całość umieszczona jest w divie **galeria** 
 
 ![Tabela pełniąca funkcję galerii](https://github.com/lewand16/TI2016/blob/gh-pages/img/tabela.png)
+
+Poniżej wycinek kodu, który pokazuje jak taką tabelę stworzyć:
+
+```
+<div id="galeria">
+	
+	<span class="bigtitle">Galeria</span>
+	<div style="height:15px;"></div>
+	<div class="dottedline"></div>
+	
+	<table>
+<tr>
+	<td><a href="img/1.jpg" title="Odtworzony staw rybny"><img id="fotografia" src="img/1m.jpg" /></td>	
+	<td><a href="img/2.jpg" title="Bagno"><img id="fotografia" src="img/2m.jpg" /></td>
+	<td><a href="img/3.jpg" title="Jezioro Białe Błota"><img  id="fotografia" src="img/3m.jpg" /></td>
+	<td><a href="img/4.jpg" title="Zasilanie kanału Czarnowodzkiego - rzeka WDA"><img id="fotografia" src="img/4m.jpg" /></td>
+	<td><a href="img/5.jpg" title="Rów zasilający odtworzone stawy i bagna"><img  id="fotografia" src="img/5m.jpg" /></td>
+</tr>
+<tr>
+	<td><a href="img/6.jpg" title="Kanał Czarnowodzki"><img <img id="fotografia" src="img/6m.jpg" /></td>
+	<td><a href="img/7.jpg" title="Bagno śródleśne"><img id="fotografia" src="img/7m.jpg" /></td> 
+	<td><a href="img/8.jpg" title="Bagno śródleśne"><img id="fotografia" src="img/8m.jpg" /></td> 
+	<td><a href="img/9.jpg" title="Rów zasilający odtworzone stawy i bagna"><img  id="fotografia" src="img/9m.jpg" /></td> 
+	<td><a href="img/10.jpg" title="Jezioro Białe Błota z pływającą wyspą"><img <img id="fotografia" src="img/10m.jpg" /></td>
+</tr>
+<tr>
+	<td><a href="img/11.jpg" title="Kanał Czarnowodzki"><img id="fotografia" src="img/11m.jpg" /></td>	
+	<td><a href="img/12.jpg" title="Jezioro Niedzwiadki"><img  id="fotografia" src="img/12m.jpg" /></td> 
+	<td><a href="img/13.jpg" title="Wodowskaz i pływająca wyspa na jeziorze Białe Błota"><img id="fotografia" src="img/13m.jpg" /></td> 
+	<td><a href="img/14.jpg" title="Zasilanie stawu wodą - studnia artezyjska"><img id="fotografia" src="img/14m.jpg" /></td> 
+	<td><a href="img/15.jpg" title="Ujęcie wody/przepust z Kanału Czarnowodzkiego"><img id="fotografia" src="img/15m.jpg" /></td>
+</tr>
+</table>
+	</div>
+```
 
 
 
