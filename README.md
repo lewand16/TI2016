@@ -12,7 +12,7 @@ Na początek nazleży dokonac wyboru edytora tekstu, jajlepiej taki który wspie
 W języku HTML wszystkie znaczniki muszą być pisane obowiązkowo małymi literami. Dlatego zalecam już od początku uczyć się waśnie tej zasady. 
 >
 
-###Jaki edytor wybrać?###
+###Jaki edytor wybrać?
 
 Popularne dla Widows:
 * Pajączek
@@ -38,15 +38,15 @@ Popularne dla MAC OS X:
 * Bluefish
 * Taco HTML Edit
 
-Ja osobiście wybrałem do utworzenia mojej pierwszej strony internetowej programu *NOTEPAD++* :smile:
+Ja osobiście wybrałem do utworzenia mojej pierwszej strony internetowej programu **NOTEPAD++** :smile:
 
 * [Program można pobrać ze strony domowej ](https://notepad-plus-plus.org/download/v6.9.2.html)
 
-####Na początek proponuję skonfigurować parę przydatnych opcji w programeie#### :star:
+####Na początek proponuję skonfigurować parę przydatnych opcji w programie :star:
 
 1. Ustwienia\Kofigurator stylów\Dostępne style:**Obsidian**
 2. Ustwienia\Kofigurator stylów\Couier New\ oraz należy wybrać odpowiedni dla siebie rozmiar czcionki
-3. Ustwienia\Kofigurator stylów :dobrze jest też zaznaczyć opcje: >Używaj globalnego kroju czcionek>
+3. Ustwienia\Kofigurator stylów :dobrze jest też zaznaczyć opcje: *Używaj globalnego kroju czcionek* oraz *Używaj globalnego rozmiaru czcionek*
 
 
 
