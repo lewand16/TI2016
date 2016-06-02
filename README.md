@@ -245,7 +245,7 @@ Poniżej wycinek kodu, który pokazuje jak taką tabelę stworzyć:
 	</div>
 ```
 
-* ##Poiżej przedstwię jeszcze listę najbardziej przydatnych znaczników w języku XHTML/HTML ze strony [Pordnik- Webmastera](http://www.poradnik-webmastera.com/polecenia/html/znaczniki/)
+##Poiżej przedstwię jeszcze listę najbardziej przydatnych znaczników w języku XHTML/HTML ze strony [Pordnik- Webmastera](http://www.poradnik-webmastera.com/polecenia/html/znaczniki/)
 
 >
 Poniższa lista zawiera posortowane alfabetycznie znaczniki HTML 4.01 / XHTML 1.0. Wartości w kolumnie "DTD" oznaczają w której wersji HTML/XHTML można korzystać z podanego znacznika:
