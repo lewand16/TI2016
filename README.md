@@ -9,8 +9,22 @@ Na początek nazleży dokonac wyboru edytora tekstu, jajlepiej taki który wspie
 
 *UWAGA!*
 >
-W języku HTML wszystkie znaczniki muszą być pisane obowiązkowo małymi literami. Dlatego zalecam już od początku uczyć się waśnie tej zasady 
+W języku HTML wszystkie znaczniki muszą być pisane obowiązkowo małymi literami. Dlatego zalecam już od początku uczyć się waśnie tej zasady. 
 >
+###Jaki edytor wybrać?###
+
+Popularne dla Widows:
+-Pajączek
+*Core Editor
+*Ager Web Editor
+*Ed HTML
+*HateML Pro
+*JHTML
+*kED
+*PSPad
+*Web Edit
+
+
 
 
 
