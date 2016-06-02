@@ -208,7 +208,7 @@ Zapis ten odwołuje się do stylu logo zapisanego w pliku CSS
 
 2. wstawianie tabel w HTML, dla przykładu tabela z mojej strony która pełni funkcję galerii 
 
-![Tabela pełniąca funkcję galerii](https://github.com/lewand16/TI2016/blob/gh-pages/img/tabelka.png)
+![Tabela pełniąca funkcję galerii](https://github.com/lewand16/TI2016/blob/gh-pages/img/tabela.png)
 
 
 
