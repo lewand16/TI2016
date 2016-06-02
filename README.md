@@ -245,7 +245,7 @@ Poniżej wycinek kodu, który pokazuje jak taką tabelę stworzyć:
 	</div>
 ```
 
-* Poiżej przedstwię jeszcze listę najbardziej przydatnych znaczników w języku XHTML/HTML[Pordnik Webmastera](http://www.poradnik-webmastera.com/polecenia/html/znaczniki/)
+* Poiżej przedstwię jeszcze listę najbardziej przydatnych znaczników w języku XHTML/HTML ze strony [Pordnik- Webmastera](http://www.poradnik-webmastera.com/polecenia/html/znaczniki/)
 
 
 
