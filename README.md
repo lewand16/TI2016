@@ -7,7 +7,9 @@ Na początek nazleży dokonac wyboru edytora tekstu, jajlepiej taki który wspie
 * automatyczne zamykanie znaczników
 * generatory
 
-
+>*UWAGA!*
+W języku HTML wszystkie znaczniki muszą być pisane obowiązkowo małymi literami. Dlatego zalecam już od początku uczyć się waśnie tej zasady 
+>
 
 
 
