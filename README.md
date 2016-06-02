@@ -144,7 +144,7 @@ Ja oparłem strukturę strony na blokach **div**, wenątrz każdego bloku będą
 ```
 Pozwyższy link wstawiamy w sekcji head :fire:
 
-Ja skożystałem z podlinkowanego pliku z kodami CSS:
+Ja skożystałem z podlinkowanego pliku z kodami CSS, wktórym opisane są min. kolor tła, rodzaj czcionki, wysokośći szerokość div(bloków), marginesy, ramki, zachowanie się kursora, itp.:
 ```
 #body
 {
