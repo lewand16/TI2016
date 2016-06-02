@@ -50,7 +50,7 @@ Ja osobiście wybrałem do utworzenia mojej pierwszej strony internetowej progra
 
 ![Notepad++](https://github.com/lewand16/TI2016/blob/gh-pages/img/notepad1.png)
 
-Przydatną funkcją może okazać się ustawienie interfejsu programu na język **angielski** :shit: 
+Przydatną funkcją może okazać się ustawienie interfejsu programu na język **angielski** :neckbeard: jest to pomocne przy nauce języka angielskiego, którego niestety nie unikniemy programując w HTML
 
 
 
