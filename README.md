@@ -7,7 +7,7 @@ Na początek nazleży dokonac wyboru edytora tekstu, jajlepiej taki który wspie
 * automatyczne zamykanie znaczników
 * generatory
 
-*UWAGA!*
+**UWAGA!**
 >
 W języku HTML wszystkie znaczniki muszą być pisane obowiązkowo małymi literami. Dlatego zalecam już od początku uczyć się waśnie tej zasady. 
 >
@@ -52,11 +52,11 @@ Ja osobiście wybrałem do utworzenia mojej pierwszej strony internetowej progra
 
 Przydatną funkcją może okazać się ustawienie interfejsu programu na język **angielski** :neckbeard: jest to pomocne przy nauce języka angielskiego, którego niestety nie unikniemy programując w HTML.
 
-Zmiany języka dokonujemy w *Ustawienia\Preferencj\Lokalizacja\English*
+Zmiany języka dokonujemy w: *Ustawienia\Preferencj\Lokalizacja\English*
 
 ![Notepad++](https://github.com/lewand16/TI2016/blob/gh-pages/img/notepad2.png)
 
-
+Gdy już mamy otworzony owy dokument, to **najważniejsze**, należy zapisać go jako typ dokumentu HTML, czyli np. z roższeżeniem *.html
 
 
 
