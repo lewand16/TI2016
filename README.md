@@ -144,7 +144,7 @@ Ja oparłem strukturę strony na blokach **div**, wenątrz każdego bloku będą
 ```
 Pozwyższy link wstawiamy w sekcji head :fire:
 
-Ja skożystałem z podlinkowanego pliku z kodami CSS, wktórym opisane są min. kolor tła, rodzaj czcionki, wysokośći szerokość div(bloków), marginesy, ramki, zachowanie się kursora, itp.:
+Ja skożystałem z podlinkowanego pliku z kodami CSS, wktórym opisane są min. kolor tła, rodzaj czcionki, wysokośći szerokość div(bloków), marginesy, ramki, zachowanie się kursora, itp. 
 ```
 #body
 {
@@ -188,11 +188,14 @@ Ja skożystałem z podlinkowanego pliku z kodami CSS, wktórym opisane są min. 
 
 ```
 
+**Ważne** należy ssię odwołać w pliku html w odpowiednim divie do okrelonego stylu poprzez zastosowanie zapisu: 
 
-
-
-
-
+```
+<div id="logo">
+```
+>
+Zapis ten odwołuje się do stylu logo zapisanego w pliku CSS
+>
  
 
 
