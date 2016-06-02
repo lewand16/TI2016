@@ -199,7 +199,7 @@ Zapis ten odwołuje się do stylu logo zapisanego w pliku CSS
  
 #Pozostałe przydatne informacje  
  
- - [x] wstawianie linków do zdjęć lokalnych, w katalou, lub na innej stronie internetowej, poprzez wykorzystanie zdjęcia jako linku
+ -  wstawianie linków do zdjęć lokalnych, w katalou, lub na innej stronie internetowej, poprzez wykorzystanie zdjęcia jako linku
  
 ```
 <a href="http://water.usgs.gov/edu/watercyclepolish.html" title="Obieg wody w przyrodzie"> <img id="fotografia" src="img/obieg_1.jpg" alt="Obieg wody w przyrodzie" />
