@@ -38,7 +38,7 @@ Popularne dla MAC OS X:
 * Bluefish
 * Taco HTML Edit
 
-:smile:
+Ja osobiście wybrałem do utworzenia mojej pierwszej strony internetowej programu *NOTEPAD++* :smile:
 
 
 
