@@ -40,6 +40,11 @@ Popularne dla MAC OS X:
 
 Ja osobiście wybrałem do utworzenia mojej pierwszej strony internetowej programu *NOTEPAD++* :smile:
 
+* [Program można pobrać ze strony](https://notepad-plus-plus.org/download/v6.9.2.html)
+
+
+
+
 
 
 
