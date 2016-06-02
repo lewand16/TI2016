@@ -67,6 +67,12 @@ Poza notatkami z wykładów i ćwiczeń z Technologii internetowych wzorowałęm
 [Kurs HTML odc.1: Tworzenie stron www - pierwszy projekt, wiedza podstawowa
 Pasja informatyki ](https://www.youtube.com/watch?v=k2IydkL3EOs)
 
+Ten i kolejne odcinki s naprawdę pomocene w tej nierównej walce.
+
+
+
+
+
 
 
 
