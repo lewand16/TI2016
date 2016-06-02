@@ -269,7 +269,11 @@ Poniższa lista zawiera posortowane alfabetycznie znaczniki HTML 4.01 / XHTML 1.
 | <br>           | Przejście do nowej lini        | STF   |
 | <div>          | Sekcja w dokumencie            | STF   |
 | <h1>           | Nagłówek poziomu 1             | STF   |
-| <h1>           | Nagłówek poziomu 1             | STF   |
+| <h2>           | Nagłówek poziomu 2             | STF   |
+| <h3>           | Nagłówek poziomu 3             | STF   |
+| <h4>           | Nagłówek poziomu 4             | STF   |
+| <h5>           | Nagłówek poziomu 5             | STF   |
+| <h6>           | Nagłówek poziomu 6             | STF   |
 
 
 
