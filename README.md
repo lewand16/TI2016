@@ -2,7 +2,10 @@
 
 ##Od czego zacząc tworzenie stron w języku HTML?
 
-Na początek nazleży dokonac wyboru edytora tekstu, jajlepiej taki który wspiera i ułatwia wpisywanie znaczników w języku HTML.
+Na początek nazleży dokonac wyboru edytora tekstu, jajlepiej taki który wspiera i ułatwia wpisywanie znaczników w języku HTML.Praktycznie każdy edytor HTML oferuje:
+* kolorowanie składni
+* automatyczne zamykanie znaczników
+* generatory
 
 
 
