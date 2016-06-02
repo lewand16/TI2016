@@ -71,7 +71,7 @@ Ten i kolejne odcinki są naprawdę pomocene w tej nierównej walce.
 
 ##Kolejne etapy tworzenia własnej strony internetowej:
 
-1. ###Definiujemy typ dokumentu i tworzymy sekcję **head** , tak naprawdę nie widoczną w widoku strony internetowej, ale szalenie ważną w kwestii poprawnego działania i wyświetlania witryny :imp:
+###1. Definiujemy typ dokumentu i tworzymy sekcję **head** , tak naprawdę nie widoczną w widoku strony internetowej, ale szalenie ważną w kwestii poprawnego działania i wyświetlania witryny :imp:
 
 ```
 <!DOCTYPE HTML>
