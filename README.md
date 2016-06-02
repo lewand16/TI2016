@@ -14,15 +14,15 @@ W języku HTML wszystkie znaczniki muszą być pisane obowiązkowo małymi liter
 ###Jaki edytor wybrać?###
 
 Popularne dla Widows:
--Pajączek
-*Core Editor
-*Ager Web Editor
-*Ed HTML
-*HateML Pro
-*JHTML
-*kED
-*PSPad
-*Web Edit
+- Pajączek
+* Core Editor
+* Ager Web Editor
+* Ed HTML
+* HateML Pro
+* JHTML
+* kED
+* PSPad
+* Web Edit
 
 
 
