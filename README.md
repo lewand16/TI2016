@@ -67,7 +67,7 @@ Poza notatkami z wykładów i ćwiczeń z Technologii internetowych wzorowałęm
 [Kurs HTML odc.1: Tworzenie stron www - pierwszy projekt, wiedza podstawowa
 Pasja informatyki ](https://www.youtube.com/watch?v=k2IydkL3EOs)
 
-Ten i kolejne odcinki są naprawdę pomocene w tej nierównej walce.
+Ten i kolejne odcinki są naprawdę pomocene w tej nierównej walce. :feelsgood:
 
 ##Kolejne etapy tworzenia własnej strony internetowej:
 
@@ -293,6 +293,7 @@ Poniższa lista zawiera posortowane alfabetycznie znaczniki HTML 4.01 / XHTML 1.
 1. [Sobakowy blog](http://sobak.pl/blog/markdown-czyli-wygodne-formatowanie-tekstu/), krótki opis języka Markdown. 
 2. [ASP Katowice](http://www.asp.katowice.pl/zobacz/markdown#lists), Markdown na ASP Katowice. 
 3. [Projekt ML]( http://lewand16.github.io/TI2016), Link do mojej strony na Github.
+4. [Link do ikonek w Markdown](http://www.emoji-cheat-sheet.com/)
 
 
 #Wykład 16.04.2016
