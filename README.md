@@ -274,6 +274,7 @@ Poniższa lista zawiera posortowane alfabetycznie znaczniki HTML 4.01 / XHTML 1.
 |\<h4>           | Nagłówek poziomu 4             | STF   |
 |\<h5>           | Nagłówek poziomu 5             | STF   |
 |\<h6>           | Nagłówek poziomu 6             | STF   |
+|\<h6>           | Nagłówek poziomu 6             | STF   |
 
 
 
