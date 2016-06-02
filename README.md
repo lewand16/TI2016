@@ -90,7 +90,15 @@ Kolejne etapy tworzenia własnej strony internetowej:
 </html>
 
 ```
-2. Wstawiamy sekcję **body**  za znacznikiem </head> ale przed zamknięciem znacznika </html>,to wniej będą znajdowały się wszystkie elementy widoczne na stronie:
+2. Wstawiamy sekcję **body**  za znacznikiem 
+
+``` </head>
+```
+ale przed zamknięciem znacznika
+```
+</html>
+```
+,to wniej będą znajdowały się wszystkie elementy widoczne na stronie:
 
 ```
 <body>
