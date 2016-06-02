@@ -274,34 +274,17 @@ Poniższa lista zawiera posortowane alfabetycznie znaczniki HTML 4.01 / XHTML 1.
 |\<h4>           | Nagłówek poziomu 4             | STF   |
 |\<h5>           | Nagłówek poziomu 5             | STF   |
 |\<h6>           | Nagłówek poziomu 6             | STF   |
-|\<h6>           | Nagłówek poziomu 6             | STF   |
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+|\<hr>           | Pozioma linia                  | STF   |
+|\<html>         | Definicja dokumentu HTML       | STF   |
+|\<img>          | Obrazek                        | STF   |
+|\<li>           | Element listy                  | STF   |
+|\<span>         | Sekcja w dokumencie            | STF   |
+|\<style>        | Definicja arkuszy styli CSS    | STF   |
+|\<span>         | Sekcja w dokumencie            | STF   |
+|\<table>        | Tabela                         | STF   |
+|\<tbody>        | Ciało tabeli                   | STF   |
+|\<td>           | Komórka tabeli                 | STF   |
+|\<tr>           | Wiersz tabeli                  | STF   |
 
 
 
