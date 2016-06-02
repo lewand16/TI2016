@@ -259,15 +259,17 @@ Poniższa lista zawiera posortowane alfabetycznie znaczniki HTML 4.01 / XHTML 1.
 
 
 
-
-
-
-
-| Znacznik       | Opis          | DTD   |
-|----------------|:-------------:| -----:|
-| <!--...-->     | Komentarz     | STF   |
-| col 2 is       | centered      |   $12 |
-| zebra stripes  | are neat      |    $1 |
+| Znacznik       | Opis                           | DTD   |
+|----------------|:------------------------------:|------:|
+| <!--...-->     | Komentarz                      | STF   |
+| <!DOCTYPE>     | Definicja typu dokumentu       | STF   |
+| <a>            | Odnośnik (kotwica)             | STF   |
+| <b>            | Pogrubienie tekstu             | STF   |
+| <body>         | Ciało dokumentu HTML           | STF   |
+| <br>           | Przejście do nowej lini        | STF   |
+| <div>          | Sekcja w dokumencie            | STF   |
+| <h1>           | Nagłówek poziomu 1             | STF   |
+| <h1>           | Nagłówek poziomu 1             | STF   |
 
 
 
