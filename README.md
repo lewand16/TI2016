@@ -134,13 +134,59 @@ ale przed zamknięciem znacznika
 ```
 Ja oparłem strukturę strony na blokach **div**, wenątrz każdego bloku będą dodawane kolejne elementy np. linki, logo, zdjęcia, tekst, tabele itp., można też wykonać stronę opartą na strukturze tabeli, ale kod jest mniej przejrzysty i trudniej jest później na gotowej stronie szybko zmienić jej strukturę. Innych metod nie będę opisywał, ponieważ ich dobrze nie poznałem.
 
-3.  Formatowanie stylu strony za pomocą kodó CSS 
+3.  Formatowanie stylu strony za pomocą kodów CSS 
 
 * za pomocą komend wpisanych bezpośrednio w HTML
 * za pomocą linku, odwołania do odrębnego pliku z zapisanymi kodami CSS, **wygodniejsze i praktyczniejsze ze względu na możliwość szybkiej zmiany stylu strony bez ingerencji w plik index.html
 
+```
+<link rel="stylesheet" href="style3.css" type="text/css"/>
+```
+Pozwyższy link wstawiamy w sekcji head :fire:
 
+Ja skożystałem z podlinkowanego pliku z kodami CSS:
+```
+#body
+{
+	background-color: #404040;
+	font-family: 'Lato', sans-serif;
+}
 
+#container
+{
+	width: 1000px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#logo
+{
+	color: white;
+	margin-top: 20px;
+	font-size: 44px;
+	letter-spacing: 3px;
+	font-weight: 900;
+}
+
+#menu
+{
+	background-color: #303030;
+	margin-top: 20px;
+	color: #ffffff;
+	padding: 10px;
+	
+}
+
+#topbar
+{
+	background-color: #128870;
+	color: white;
+	padding: 10px;
+	margin-top: 20px;
+	margin-bottom: 25px;
+	height: 170px;
+
+```
 
 
 
