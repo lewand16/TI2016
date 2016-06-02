@@ -69,7 +69,34 @@ Pasja informatyki ](https://www.youtube.com/watch?v=k2IydkL3EOs)
 
 Ten i kolejne odcinki są naprawdę pomocene w tej nierównej walce.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/k2IydkL3EOs" frameborder="0" allowfullscreen></iframe>
+Kolejne etapy tworzenia własnej strony internetowej:
+
+1. Definiujemy typ dokumentu i tworzymy sekcję **HEAD**
+
+```
+<!DOCTYPE HTML>
+<html lang="pl"> 
+<head>
+	<meta charset="utf-8" />
+	<title>Tytuł strony</title>
+	<meta name="description" content="Tutaj wpisujemy czego dotyczyć będzie strona "/>
+	<meta name="keywords" content="tutaj wpisujemy słowa kluczowe, związane z tematyką strony, 
+	ważne przy pozycjonowaniu strony przez przeglądarki"/>
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"/>
+	<meta name="author" content="Dane autora, chyba nie jest to pole obligatoryjne"/>
+	<link rel="stylesheet" href="style.css" type="text/css" />
+</head>
+
+</html>
+
+```
+
+
+ 
+
+
+
+
 
 
 
