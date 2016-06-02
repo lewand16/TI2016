@@ -199,12 +199,21 @@ Zapis ten odwołuje się do stylu logo zapisanego w pliku CSS
  
 #Pozostałe przydatne informacje  
  
- -  wstawianie linków do zdjęć lokalnych, w katalou, lub na innej stronie internetowej, poprzez wykorzystanie zdjęcia jako linku
+ 1. wstawianie linków do zdjęć lokalnych, w katalou, lub na innej stronie internetowej, poprzez wykorzystanie zdjęcia jako linku
  
 ```
 <a href="http://water.usgs.gov/edu/watercyclepolish.html" title="Obieg wody w przyrodzie"> <img id="fotografia" src="img/obieg_1.jpg" alt="Obieg wody w przyrodzie" />
 
 ```
+
+2. wstawianie tabel 
+
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
+
 
 
 
