@@ -38,7 +38,7 @@ Popularne dla MAC OS X:
 * Bluefish
 * Taco HTML Edit
 
-Ja osobiście wybrałem do utworzenia mojej pierwszej strony internetowej programu **NOTEPAD++** :smile:
+Ja osobiście wybrałem do utworzenia mojej pierwszej strony internetowej program **NOTEPAD++** :smile:
 
 * [Program można pobrać ze strony domowej ](https://notepad-plus-plus.org/download/v6.9.2.html)
 
@@ -49,6 +49,8 @@ Ja osobiście wybrałem do utworzenia mojej pierwszej strony internetowej progra
 3. Ustwienia\Kofigurator stylów :dobrze jest też zaznaczyć opcje: *Używaj globalnego kroju czcionek* oraz *Używaj globalnego rozmiaru czcionek*
 
 ![Notepad++](https://github.com/lewand16/TI2016/blob/gh-pages/img/notepad1.png)
+
+Przydatną funkcją może okazać się ustawienie interfejsu programu na język **angielski** :shit: 
 
 
 
