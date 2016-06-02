@@ -71,7 +71,7 @@ Ten i kolejne odcinki są naprawdę pomocene w tej nierównej walce.
 
 Kolejne etapy tworzenia własnej strony internetowej:
 
-1. Definiujemy typ dokumentu i tworzymy sekcję **HEAD**
+1. Definiujemy typ dokumentu i tworzymy sekcję **head** , tak naprawdę nie widoczną w widoku strony internetowej, ale szalenie ważną w kwestii poprawnego działania i wyświetlania witryny :imp:
 
 ```
 <!DOCTYPE HTML>
@@ -90,6 +90,43 @@ Kolejne etapy tworzenia własnej strony internetowej:
 </html>
 
 ```
+2. Wstawiamy sekcję **body**  za znacznikiem </head> ale przed zamknięciem znacznika </html>,to wniej będą znajdowały się wszystkie elementy widoczne na stronie:
+
+```
+<body>
+<div id="container">
+
+	<div id="logo">
+	Tekst, linki, zdjęcia, inne..  
+	</div>
+	
+	<div id="menu">
+	Linki do podstron
+	</div>
+	
+	<div id="topbar">
+	Pasek górny
+	</div>
+	
+	<div id="sidebar">
+	Pasek boczny
+	</div>
+	
+	<div id="content">
+	Tekst, linki, zdjęcia, inne..
+	</div>
+	
+	<div id="footer">
+	Stopka
+	</div>
+	
+</div>
+</body>
+```
+Ja oparłem strukturę strony na blokach **div**, wenątrz każdego bloku będą dodawane kolejne elementy np. linki, logo, zdjęcia, tekst itp.
+
+
+
 
 
  
@@ -120,45 +157,6 @@ Kolejne etapy tworzenia własnej strony internetowej:
 
 
 
-##Przykładowy tekst w HTML:
-
-```
-<h4>Nagłówek</h4>
-
-Oto przykładowy tekst <em>przykładowy</em>, którym chciałbym <strong>pokazać</strong> 
-czym różni się HTML od <a href="http://www.makoweabc.pl/2011/05/markdown/">Markdown</a>.
-
-<blockquote>A tutaj jest cytat.</blockquote>
-```
-
-###Ten sam tekst w języku w Markdown:
-```
-####Nagłówek
-
-Oto przykłądowy tekst *przykładowy*, którym chciałbym **pokazać** 
-czym różni się HTML od [Markdown](http://www.makoweabc.pl/2011/05/markdown/).
-
-> A tutaj jest cytat.
-```
-###Tekst wynikowy w Markdown na Github:
-
-####Nagłówek
-
-Oto przykłądowy tekst *przykładowy*, którym chciałbym **pokazać** czym różni się HTML od [Markdown](http://www.makoweabc.pl/2011/05/markdown/).
-
-> A tutaj jest cytat.
-
-
-Efekt końcowy  w WordPress:
-
-Nagłówek
-
-To jest tekst przykładowy, którym chciałbym zilustrować czym różni się HTML od Markdown.
-
-    A to jest cytat.
-
-*Wstawianie obrazków w Markdown*
-![Zdjęcie lasu](las.JPG) 
 
 ###Linki:
 1. [Sobakowy blog](http://sobak.pl/blog/markdown-czyli-wygodne-formatowanie-tekstu/), krótki opis języka Markdown. 
