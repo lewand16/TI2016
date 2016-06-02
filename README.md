@@ -92,7 +92,8 @@ Kolejne etapy tworzenia własnej strony internetowej:
 ```
 2. Wstawiamy sekcję **body**  za znacznikiem 
 
-``` </head>
+``` 
+</head>
 ```
 ale przed zamknięciem znacznika
 ```
@@ -131,7 +132,9 @@ ale przed zamknięciem znacznika
 </div>
 </body>
 ```
-Ja oparłem strukturę strony na blokach **div**, wenątrz każdego bloku będą dodawane kolejne elementy np. linki, logo, zdjęcia, tekst itp.
+Ja oparłem strukturę strony na blokach **div**, wenątrz każdego bloku będą dodawane kolejne elementy np. linki, logo, zdjęcia, tekst, tabele itp., można też wykonać stronę opartą na strukturze tabeli, ale kod jest mniej przejrzysty i trudniej jest później na gotowej stronie szybko zmienić jej strukturę. Innych metod nie będę opisywał, ponieważ ich dobrze nie poznałem.
+
+
 
 
 
