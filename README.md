@@ -71,7 +71,7 @@ Ten i kolejne odcinki są naprawdę pomocene w tej nierównej walce.
 
 ##Kolejne etapy tworzenia własnej strony internetowej:
 
-###1. Definiujemy typ dokumentu i tworzymy sekcję **head** , tak naprawdę nie widoczną w widoku strony internetowej, ale szalenie ważną w kwestii poprawnego działania i wyświetlania witryny :imp:
+1. Definiujemy typ dokumentu i tworzymy sekcję **head** , tak naprawdę nie widoczną w widoku strony internetowej, ale szalenie ważną w kwestii poprawnego działania i wyświetlania witryny** :imp:
 
 ```
 <!DOCTYPE HTML>
@@ -90,7 +90,7 @@ Ten i kolejne odcinki są naprawdę pomocene w tej nierównej walce.
 </html>
 
 ```
-2. ###Wstawiamy sekcję **body**  za znacznikiem 
+2. Wstawiamy sekcję **body**  za znacznikiem 
 
 ``` 
 </head>
@@ -134,7 +134,8 @@ ale przed zamknięciem znacznika
 ```
 Ja oparłem strukturę strony na blokach **div**, wenątrz każdego bloku będą dodawane kolejne elementy np. linki, logo, zdjęcia, tekst, tabele itp., można też wykonać stronę opartą na strukturze tabeli, ale kod jest mniej przejrzysty i trudniej jest później na gotowej stronie szybko zmienić jej strukturę. Innych metod nie będę opisywał, ponieważ ich dobrze nie poznałem.
 
-3. ### Formatowanie stylu strony za pomocą kodó CSS 
+3.  Formatowanie stylu strony za pomocą kodó CSS 
+
 * za pomocą komend wpisanych bezpośrednio w HTML
 * za pomocą linku, odwołania do odrębnego pliku z zapisanymi kodami CSS, **wygodniejsze i praktyczniejsze ze względu na możliwość szybkiej zmiany stylu strony bez ingerencji w plik index.html
 
