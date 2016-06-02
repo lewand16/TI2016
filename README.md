@@ -44,10 +44,11 @@ Ja osobiście wybrałem do utworzenia mojej pierwszej strony internetowej progra
 
 ####Na początek proponuję skonfigurować parę przydatnych opcji w programie :star:
 
-1. Ustwienia\Kofigurator stylów\Dostępne style:**Obsidian**
-2. Ustwienia\Kofigurator stylów\Couier New\ oraz należy wybrać odpowiedni dla siebie rozmiar czcionki
+1. Ustwienia\Kofigurator stylów\Dostępne style:*Obsidian*
+2. Ustwienia\Kofigurator stylów\*Couier New* oraz należy wybrać odpowiedni dla siebie rozmiar czcionki
 3. Ustwienia\Kofigurator stylów :dobrze jest też zaznaczyć opcje: *Używaj globalnego kroju czcionek* oraz *Używaj globalnego rozmiaru czcionek*
 
+![Notepad++](https://github.com/lewand16/TI2016/blob/gh-pages/img/notepad1.png)
 
 
 
