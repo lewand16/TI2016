@@ -245,7 +245,7 @@ Poniżej wycinek kodu, który pokazuje jak taką tabelę stworzyć:
 	</div>
 ```
 
-##Poiżej przedstwię jeszcze listę najbardziej przydatnych znaczników w języku XHTML/HTML ze strony [Pordnik- Webmastera](http://www.poradnik-webmastera.com/polecenia/html/znaczniki/)
+##Poniżej przedstwię jeszcze listę najbardziej przydatnych znaczników w języku XHTML/HTML ze strony [Pordnik- Webmastera](http://www.poradnik-webmastera.com/polecenia/html/znaczniki/)
 
 >
 Poniższa lista zawiera posortowane alfabetycznie znaczniki HTML 4.01 / XHTML 1.0. Wartości w kolumnie "DTD" oznaczają w której wersji HTML/XHTML można korzystać z podanego znacznika:
@@ -293,7 +293,7 @@ Poniższa lista zawiera posortowane alfabetycznie znaczniki HTML 4.01 / XHTML 1.
 1. [Sobakowy blog](http://sobak.pl/blog/markdown-czyli-wygodne-formatowanie-tekstu/), krótki opis języka Markdown. 
 2. [ASP Katowice](http://www.asp.katowice.pl/zobacz/markdown#lists), Markdown na ASP Katowice. 
 3. [Projekt ML]( http://lewand16.github.io/TI2016), Link do mojej strony na Github.
-4. [Link do ikonek w Markdown](http://www.emoji-cheat-sheet.com/)
+4. [Ikonki](http://www.emoji-cheat-sheet.com/),Link do ikonek w Markdown
 
 
 #Wykład 16.04.2016
