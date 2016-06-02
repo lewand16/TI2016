@@ -197,7 +197,7 @@ Ja skożystałem z podlinkowanego pliku z kodami CSS, wktórym opisane są min. 
 Zapis ten odwołuje się do stylu logo zapisanego w pliku CSS
 >
  
- ###Pozostałe przydatne informacje  :smiling_imp:
+ ###Pozostałe przydatne informacje  :
  
  - [x] wstawianie linków do zdjęć lokalnych, w katalou, lub na innej stronie internetowej, poprzez wykorzystanie zdjęcia jako linku
  
