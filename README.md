@@ -56,7 +56,9 @@ Zmiany języka dokonujemy w: *Ustawienia\Preferencj\Lokalizacja\English*
 
 ![Notepad++](https://github.com/lewand16/TI2016/blob/gh-pages/img/notepad2.png)
 
-Gdy już mamy otworzony owy dokument, to **najważniejsze**, należy zapisać go jako typ dokumentu HTML, czyli np. z roższeżeniem *.html
+Gdy już mamy otworzony nowy dokument, to **najważniejsze**, należy zapisać go jako typ dokumentu HTML, czyli np. z roższeżeniem *.html
+
+##I co dalej? :alien:
 
 
 
