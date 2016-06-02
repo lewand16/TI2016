@@ -294,6 +294,7 @@ Poniższa lista zawiera posortowane alfabetycznie znaczniki HTML 4.01 / XHTML 1.
 2. [ASP Katowice](http://www.asp.katowice.pl/zobacz/markdown#lists), Markdown na ASP Katowice. 
 3. [Projekt ML]( http://lewand16.github.io/TI2016), Link do mojej strony na Github.
 4. [Ikonki](http://www.emoji-cheat-sheet.com/),Link do ikonek w Markdown
+5. [Podstawy składni Syntax](https://help.github.com/articles/basic-writing-and-formatting-syntax/), Podstawy pisania i formatowania w syntax
 
 
 #Wykład 16.04.2016
