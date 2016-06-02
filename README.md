@@ -199,14 +199,14 @@ Zapis ten odwołuje się do stylu logo zapisanego w pliku CSS
  
 #Pozostałe przydatne informacje  
  
- 1. wstawianie linków do zdjęć lokalnych, w katalou, lub na innej stronie internetowej, poprzez wykorzystanie zdjęcia jako linku
+ * wstawianie linków do zdjęć lokalnych, w katalou, lub na innej stronie internetowej, poprzez wykorzystanie zdjęcia jako linku
  
 ```
 <a href="http://water.usgs.gov/edu/watercyclepolish.html" title="Obieg wody w przyrodzie"> <img id="fotografia" src="img/obieg_1.jpg" alt="Obieg wody w przyrodzie" />
 
 ```
 
-2. wstawianie tabel w HTML, dla przykładu tabela z mojej strony która pełni funkcję galerii, całość umieszczona jest w divie **galeria** 
+* wstawianie tabel w HTML, dla przykładu tabela z mojej strony która pełni funkcję galerii, całość umieszczona jest w divie **galeria** 
 
 ![Tabela pełniąca funkcję galerii](https://github.com/lewand16/TI2016/blob/gh-pages/img/tabela.png)
 
@@ -244,6 +244,8 @@ Poniżej wycinek kodu, który pokazuje jak taką tabelę stworzyć:
 </table>
 	</div>
 ```
+
+* Poiżej przedstwię jeszcze listę najbardziej przydatnych znaczników w języku XHTML/HTML[Pordnik Webmastera](http://www.poradnik-webmastera.com/polecenia/html/znaczniki/)
 
 
 
